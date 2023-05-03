@@ -1,0 +1,1 @@
+<?php echo phpinfo(); ?><?php /**PATH /var/www/html/GROWCRM/GROWCRM/application/resources/views/pages/setup/serverinfo.blade.php ENDPATH**/ ?>
